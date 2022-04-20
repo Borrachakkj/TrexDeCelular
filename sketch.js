@@ -94,7 +94,7 @@ function draw(){
     }
 
     //pulo do trex
-    if(touches.lenght<0 || keyDown("space")){
+    if(touches.lenght0 || keyDown("space")){
       trex.velocityY=-10;
       touches=[];
       puloSom.play();
